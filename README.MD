@@ -64,10 +64,11 @@ This architecture not only enables advanced features (multi-account handling, ke
 
 ---
 
-## Features
+## Proxy Features
 
 - Custom keybinding
 - Multiple account handling
+- Scalable
 - Built-in utility & exploit commands (toggleable) such as:  
   - ANTI KNOCKBACK  
   - AUTO CLICK  
