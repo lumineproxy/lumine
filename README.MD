@@ -68,10 +68,3 @@ Below are previews of the **Lumine Client** that integrates with Lumine Proxy:
   - TIMER  
   - VELOCITY  
 
-
----
-
-## License
-
-This project is part of the private Lumine ecosystem.  
-`gophertunnel` is licensed under the MIT License.  
