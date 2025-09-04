@@ -47,6 +47,8 @@ Below are previews of the **Lumine Client** that integrates with Lumine Proxy:
 
 ## Features
 
+- Custom keybinding
+- Multiple account handling
 - Built-in utility & exploit commands (toggleable) such as:  
   - ANTI KNOCKBACK  
   - AUTO CLICK  
