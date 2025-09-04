@@ -41,6 +41,20 @@ Below are previews of the **Lumine Client** that integrates with Lumine Proxy:
 
 ---
 
+## Ecosystem Complexity & Security
+
+The Lumine ecosystem is designed with layered complexity and security in mind. Each component works together in a tightly integrated flow to ensure both functionality and protection against tampering or exploitation:
+
+Launcher – Handles runtime operations by securely pulling frontend data from the API through obfuscated and encrypted HTTP calls.
+
+Frontend (Wails) – Once data is received, the Wails-based frontend executes and manages the interaction with the user.
+
+Proxy Execution – The proxy is unencrypted at runtime inside a protected, obfuscated memory space. After execution, it actively removes any trace of its presence to reduce the attack surface and prevent reverse-engineering or exploitation.
+
+This architecture not only enables advanced features (multi-account handling, keybinding, built-in commands) but also provides a hardened environment that makes it significantly more resilient against external manipulation.
+
+---
+
 ## Tech Stack
 
 - **Go** – Core proxy logic (Gophertunnel).  
