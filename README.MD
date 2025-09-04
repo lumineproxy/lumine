@@ -5,7 +5,7 @@ It is part of a multi-repository project including the client, launcher, API, an
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The Lumine ecosystem is divided into several components:
 
@@ -18,9 +18,8 @@ The Lumine ecosystem is divided into several components:
 
 ---
 
-## ⚡ Features
+## Features
 
-- Bedrock Edition proxy using [Gophertunnel](https://github.com/Sandertv/gophertunnel)  
 - Built-in utility & exploit commands (toggleable) such as:  
   - ANTI KNOCKBACK  
   - AUTO CLICK  
@@ -44,7 +43,7 @@ The Lumine ecosystem is divided into several components:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Go** – Core proxy logic (Gophertunnel).  
 - **TypeScript / Next.js / Wails** – Frontend client.  
