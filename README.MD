@@ -69,24 +69,5 @@ This architecture not only enables advanced features (multi-account handling, ke
 - Custom keybinding
 - Multiple account handling
 - Scalable
-- Built-in utility & exploit commands (toggleable) such as:  
-  - ANTI KNOCKBACK  
-  - AUTO CLICK  
-  - FAKE OP  
-  - FAST EAT  
-  - FLY  
-  - FREE CAM  
-  - GAME MODE  
-  - HELP  
-  - HIT BOX  
-  - KILL AURA  
-  - NO CLIP  
-  - NO PACKET  
-  - PING  
-  - REACH  
-  - READ NBT  
-  - REFUSE TP  
-  - TELEPORT  
-  - TIMER  
-  - VELOCITY  
+- Built-in utility & exploit commands (toggleable)   
 
