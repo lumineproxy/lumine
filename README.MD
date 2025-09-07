@@ -1,4 +1,5 @@
-# Lumine Proxy - FOR SALE
+# Lumine Proxy 
+# FOR SALE
 
 **Lumine Proxy** is a Gophertunnel-based Minecraft Bedrock Edition proxy responsible for handling proxy-side logic in the **Lumine** ecosystem.  
 It is part of a multi-repository project including the client, launcher, API, and Discord bot.
