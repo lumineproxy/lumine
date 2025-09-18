@@ -1,4 +1,3 @@
-message **cjmustard1452** on discord for further details.
 # Lumine Proxy 
 
 **Lumine Proxy** is a Gophertunnel-based Minecraft Bedrock Edition proxy responsible for handling proxy-side logic in the **Lumine** ecosystem.  
@@ -70,5 +69,9 @@ This architecture not only enables advanced features (multi-account handling, ke
 - Custom keybinding
 - Multiple account handling
 - Scalable
-- Built-in utility & exploit commands (toggleable)   
+- Built-in utility & exploit commands (toggleable)
 
+---
+
+## More Details
+message **cjmustard1452** on discord for further details.
