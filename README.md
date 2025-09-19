@@ -36,8 +36,11 @@ Below are previews of the **Lumine Client** that integrates with Lumine Proxy:
 
 <p align="center">
   <img src="assets/c9211e0c-e8ba-470a-b267-adasf35abdb0.png" alt="Cheats" width="30%"/>
-  <img src="assets/1dcda159-5615-4dd1-a06d-b0s8d0ff4fa6.png" alt="Types" width="30%"/>
   <img src="assets/c9211e0c-e8ba-470a-b267-adb4933fjsb0.png" alt="Keybinds" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="assets/1dcda159-5615-4dd1-a06d-b0s8d0ff4fa6.png" alt="Types" width="30%"/>
 </p>
 
 ---
